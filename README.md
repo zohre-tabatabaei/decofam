@@ -75,8 +75,8 @@ Stories grouped by topic, with comments and their own search, written and publis
 | API | NestJS, GraphQL (Apollo), TypeScript |
 | Data | PostgreSQL with Prisma ORM, Redis |
 | Payments | Stripe Checkout with signed webhooks |
-| Hosting | Ubuntu server with Nginx, PM2 and Let's Encrypt |
-| Quality | More than 300 automated tests, lint and type-check in CI on every change |
+| Hosting | Ubuntu server with Nginx, PM2 and Let's Encrypt, behind Cloudflare |
+| Quality | More than 350 automated tests, lint and type-check in CI on every change |
 
 A few engineering decisions:
 
